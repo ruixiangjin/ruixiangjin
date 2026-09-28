@@ -4,7 +4,7 @@
 
 ### 👋 关于我
 
-我是 **ruixiangjin**。最近在做 Monash Study Agent，也在维护两个课程资料下载器。平时主要写 Python 和 TypeScript。做出来的东西我会自己试，觉得哪里不好用就继续改。
+我是 **ruixiangjin**。最近在做 Monash Study Agent，也在维护两个课程资料下载器。
 
 ### 🛠️ 近期项目
 
