@@ -14,7 +14,7 @@
 <p>
   <img src="./assets/project-lorong.png" alt="" align="left" width="60" height="48">
   <strong><a href="https://github.com/ruixiangjin/LorongTea">Lorong Tea</a></strong><br>
-  面向连锁茶饮门店的 Android 点单应用，支持顾客选店、自提下单与限时抢购，以及店员处理订单和管理库存。
+  Android 茶饮点单应用，支持选店自提、限时抢购和门店订单管理。
 </p>
 
 <p>
