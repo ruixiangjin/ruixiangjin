@@ -2,10 +2,6 @@
   <img src="assets/hello.gif" alt="Hi, I'm ruixiangjin." width="760" />
 </p>
 
-### 👋 关于我
-
-我是 **ruixiangjin**。最近在做 Monash Study Agent，也在维护两个课程资料下载器。
-
 ### 🛠️ 近期项目
 
 | 项目 | 简介 |
