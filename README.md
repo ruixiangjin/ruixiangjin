@@ -25,8 +25,8 @@
 
 <p>
   <img src="./assets/project-study.png" alt="" align="left" width="60" height="48">
-  <strong><a href="https://github.com/ruixiangjin/monash-study-agent">Monash Study Agent</a></strong><br>
-  本地学习助手，整理 Monash 课程资料，支持检索和学习记忆。
+  <strong><a href="https://github.com/ruixiangjin/courselens-langgraph">CourseLens</a></strong><br>
+  多 Agent 课程复习助手，支持带引用的课程答疑、错题复盘和复习计划。
 </p>
 
 ### 课程资料工具
